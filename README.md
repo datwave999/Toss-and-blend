@@ -4,6 +4,18 @@
 ## Description
 This is an interactive arcade game where the player must use a mouse-controlled paddle to juggle falling fruits and guide them into a blender. The game features progressive difficulty, full collision physics with the table and blender, and distinct game states including a title screen, game over screen, and victory screen. 
 
+
+## Download & Play
+
+**[Download Toss-and-Blend v1.0](https://github.com/datwave999/Toss-and-blend/releases/latest)**
+
+### Available Versions
+| Platform | File | Instructions |
+|---|---|---|
+| Windows | `TossAndBlend_v1.0_Windows.zip` | Extract and launch the game |
+| macOS | `TossAndBlend_v1.0_MacOS.zip` | Extract and launch the app |
+| Browser | `TossAndBlend_v1.0.html` | Download and open in a web browser |
+
 ## Objective
 * **To Win:** Successfully guide enough fruits into the blender's goal area to reach a juice level greater than 40. Doing so will trigger the "FULL" blender animation and display the "You Won" screen.
 * **To Lose:** Avoid dropping fruits on the floor! The game will end and display the "Game Over" screen if you drop more than 5 fruits AND your drop-to-juice ratio exceeds 70%.
